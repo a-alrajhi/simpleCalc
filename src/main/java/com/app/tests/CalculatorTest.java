@@ -1,6 +1,7 @@
 package com.app.tests;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import com.app.model.Calculator;
 import org.junit.Test;
 
